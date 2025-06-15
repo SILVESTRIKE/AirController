@@ -6,7 +6,6 @@ Một dự án Python sử dụng OpenCV và MediaPipe để dùng webcam của 
 
 ### 🎬 Demo Hoạt Động
 
-![AirController Demo GIF]()
 
 ---
 
